@@ -1,4 +1,4 @@
-# Jekyll Bo
+# Jekyll Box
 
 Jekyll box provides a very simple vagrant based development, build and test environment for creating jekyll based static websites. 
 
