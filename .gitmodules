@@ -1,0 +1,3 @@
+[submodule "jekyll-sites/dscheffy.github.io"]
+	path = jekyll-sites/dscheffy.github.io
+	url = git@github.com:dscheffy/dscheffy.github.io.git
